@@ -1,0 +1,6 @@
+framework module Illuminator {
+  umbrella header "Illuminator-umbrella.h"
+
+  export *
+  module * { export * }
+}

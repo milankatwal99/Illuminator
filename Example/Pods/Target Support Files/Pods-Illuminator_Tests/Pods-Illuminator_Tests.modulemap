@@ -1,0 +1,6 @@
+framework module Pods_Illuminator_Tests {
+  umbrella header "Pods-Illuminator_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

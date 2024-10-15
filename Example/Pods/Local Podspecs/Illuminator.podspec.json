@@ -1,0 +1,22 @@
+{
+  "name": "Illuminator",
+  "version": "0.1.0",
+  "summary": "A short description of Illuminator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/milankatwal99/Illuminator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "milankatwal99": "milankatwal2056@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/milankatwal99/Illuminator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Illuminator/Classes/**/*"
+}

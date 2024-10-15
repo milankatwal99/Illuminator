@@ -1,0 +1,16 @@
+PODS:
+  - Illuminator (0.1.0)
+
+DEPENDENCIES:
+  - Illuminator (from `../`)
+
+EXTERNAL SOURCES:
+  Illuminator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Illuminator: 71aa3b7d7945ebf8ee18311750e067037a8c4d63
+
+PODFILE CHECKSUM: 03b6f2a74c963e9d66fa9f43bb2924d4ced0ac84
+
+COCOAPODS: 1.15.2

@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Illuminator'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of Illuminator.'
+  s.version          = '88.0.2'
+  s.summary          = 'this is just a test file'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
