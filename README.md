@@ -7,23 +7,12 @@
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+THIS SITE IS UNDER MAINTENANCE 
 
 ## Requirements
 
-## Installation
 
-Illuminator is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
-pod 'Illuminator'
-```
 
 ## Author
 
 milankatwal99, milankatwal2056@gmail.com
-
-## License
-
-Illuminator is available under the MIT license. See the LICENSE file for more info.
